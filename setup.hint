@@ -1,0 +1,4 @@
+category: X11
+requires: libX11_6
+sdesc: "Sets window opacity"
+ldesc: "transset is an utility for setting opacity property."
